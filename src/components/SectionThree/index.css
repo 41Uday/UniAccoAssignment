@@ -1,0 +1,139 @@
+.three-para {
+    font-weight: 600;
+    margin-right: 10px;
+}
+
+.three-card-1 {
+    display: flex;
+    align-items: center;
+}
+
+.three-cont {
+    margin-top: 30px;
+}
+
+.three-card-2 {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+.th-1 {
+    background-image: url("https://a0.muscache.com/im/pictures/lombard/MtTemplate-2340325-media_library/original/599c584e-f401-4f67-958a-18277ee7dd10.png?im_w=480");
+    background-size: cover;
+    height: 300px;
+    width: 200px;
+    margin: 15px;
+    border-radius: 15px;
+    display: flex;
+    justify-content: flex-end;
+    padding-right: 10px;
+}
+
+.th-2 {
+    background-image: url("https://a0.muscache.com/im/pictures/lombard/MtTemplate-1692296-media_library/original/052772ea-d821-4d3b-891c-35bef67ede0c.jpeg?im_w=480");
+    background-size: cover;
+    height: 300px;
+    width: 200px;
+    margin: 15px;
+    border-radius: 15px;
+    display: flex;
+    justify-content: flex-end;
+    padding-right: 10px;
+}
+
+.th-3 {
+    background-image: url("https://a0.muscache.com/im/pictures/lombard/MtTemplate-1718920-media_library/original/ca228931-6da0-4f13-96ec-a4079eaeb6c1.jpg?im_w=480");
+    background-size: cover;
+    height: 300px;
+    width: 200px;
+    margin: 15px;
+    border-radius: 15px;
+    display: flex;
+    justify-content: flex-end;
+    padding-right: 10px;
+}
+
+.th-4 {
+    background-image: url("https://a0.muscache.com/im/pictures/lombard/MtTemplate-1655371-active_media/original/dc85993f-4cd3-423d-b854-a729343870d7.jpeg?im_w=480");
+    background-size: cover;
+    height: 300px;
+    width: 200px;
+    margin: 15px;
+    border-radius: 15px;
+    display: flex;
+    justify-content: flex-end;
+    padding-right: 10px;
+}
+
+.th-5 {
+    background-image: url("https://a0.muscache.com/im/pictures/lombard/MtTemplate-1889556-media_library/original/4bc88061-6774-45dd-93a1-89e43cc3ddee.jpeg?im_w=480");
+    background-size: cover;
+    height: 300px;
+    width: 200px;
+    margin: 15px;
+    border-radius: 15px;
+    display: flex;
+    justify-content: flex-end;
+    padding-right: 10px;
+}
+
+.th-6 {
+    background-image: url("https://a0.muscache.com/im/pictures/lombard/MtTemplate-1658926-active_media/original/2fe5ac18-4bf5-455d-8342-fde4200bc3a0.jpeg?im_w=480");
+    background-size: cover;
+    height: 300px;
+    width: 200px;
+    margin: 15px;
+    border-radius: 15px;
+    display: flex;
+    justify-content: flex-end;
+    padding-right: 10px;
+}
+
+
+.h-icon {
+    color: white;
+    margin: 20px;
+}
+
+.three-sub-1 {
+    width: 230px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.desc {
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    margin-left: -60px;
+}
+
+
+
+.s-p-3 {
+    color: gray;
+}
+
+.s-s-p {
+    font-weight: 600;
+    margin-left: 10px;
+    margin-right: 5px;
+}
+
+
+.s-s-p-2 {
+    font-weight: 600;
+    margin-top: -10px;
+}
+
+.s-p-l {
+    font-weight: 700;
+    margin-top: -10px;
+    margin-left: -100px;
+}
+
+.span {
+    font-weight: 400;
+}
