@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/UniAccoAssignment/static/css/main.b9008765.css",
+    "main.js": "/UniAccoAssignment/static/js/main.1c04f48c.js",
+    "static/js/787.28cb0dcd.chunk.js": "/UniAccoAssignment/static/js/787.28cb0dcd.chunk.js",
+    "index.html": "/UniAccoAssignment/index.html",
+    "main.b9008765.css.map": "/UniAccoAssignment/static/css/main.b9008765.css.map",
+    "main.1c04f48c.js.map": "/UniAccoAssignment/static/js/main.1c04f48c.js.map",
+    "787.28cb0dcd.chunk.js.map": "/UniAccoAssignment/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b9008765.css",
+    "static/js/main.1c04f48c.js"
+  ]
+}
